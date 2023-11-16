@@ -1,0 +1,29 @@
+body {
+	background-color: #424242;
+	font-family: sans-serif, monospace;
+	color: #dedcdc;
+}
+a:link {
+	color: #eb67ab;
+}	
+a:visited, a:hover {
+	color: #ab4899;
+}		
+img {
+	display: inline-block;
+	margin: 0em 1.25em;
+}	
+h1 {
+	font-family: sans-serif;
+	color: #a85257;
+	text-align: center;
+}
+h2 {
+	font-family: sans-serif;
+	font-style: italic;
+	text-align: left;
+	color: #9c9a9a;
+}
+p {
+	font-size: 135%;
+}
